@@ -75,7 +75,7 @@ public class StoreActivity extends AppCompatActivity {
                     case R.id.search:
                         transaction(new SearchFragment());
                         break;
-
+//
                 }
                 return true;
             }
